@@ -30,7 +30,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <iframe id="myWidget"
-            src="https://human.biodigital.com/widget/?m=cochlear_implant&dk=<YOUR-DEVELOPER-KEY>"
+            src="https://human.biodigital.com/widget/?m=cochlear_implant&dk=b42e46ea193a7a6b233382ff65a20ae4835a43a6"
             width="100%"
             height="100%">
         </iframe>
