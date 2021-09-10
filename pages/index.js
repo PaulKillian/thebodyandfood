@@ -14,7 +14,7 @@ export default function Home() {
     //   human.send("camera.orbit", { yaw: 0.4 });
     // })();
     human.send("camera.set", {
-      position: { z: -25 },
+      position: { z: 0 },
       animate: true
     });
   })
