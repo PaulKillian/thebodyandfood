@@ -30,7 +30,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <iframe id="myWidget"
-            src="https://human.biodigital.com/widget/?m=cochlear_implant&dk=b42e46ea193a7a6b233382ff65a20ae4835a43a6"
+            src="https://human.biodigital.com/viewer/?be=4SRK&ui-info=true&ui-search=true&ui-undo=true&ui-fullscreen=true&ui-nav=true&ui-tools=true&ui-help=true&ui-chapter-list=false&ui-label-list=true&ui-anatomy-descriptions=false&ui-tutorial=false&ui-loader=circle&ui-whiteboard=true&ui-layers=true&ui-anatomy-labels=true&disable-scroll=false&dk=b42e46ea193a7a6b233382ff65a20ae4835a43a6"
             width="100%"
             height="100%">
         </iframe>
